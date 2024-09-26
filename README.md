@@ -1,12 +1,13 @@
 # Hello_World
-This repository if for practicing Github Flow.
-# H1 Heading
-## H2 Heading
-### H3 Heading
+This repository is for practicing Github Flow.
+# Project Title
+## Description
+### Files Used
+####Versions
 **This text is bold**
 __This text is also bold__
-- Item 1
-- Item 2
-- Item 3
+- Code
+- Headings
+- What happened
 ```bash
 git clone https://github.com/username/repository.git
